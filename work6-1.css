@@ -1,0 +1,19 @@
+@charset "utf-8";
+#block1 {
+    background-color: #5766AC;
+}
+.title {
+    background-color: #EBE26F;
+    width: 100%;
+}
+.left {
+    background-color: #91C5EB;
+    width: 30%;
+    float: left;
+}
+.right {
+    background-color: #A5D193;
+    width: 70%;
+    float: right;
+    height: 200px;
+}
