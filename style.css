@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+@import url("_global.css");
+
+@import url("_helper.css");
+.sitelogo{
+    color: #B04344;
+    font-weight: bolder;
+}
+.site-banner{
+    margin-top: 10px;	
+}
+.site-header{
+    position: absolute;
+    width: 100%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    z-index: 255;
+}
