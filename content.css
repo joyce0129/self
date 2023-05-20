@@ -1,0 +1,6 @@
+@charset "utf-8";
+.row .col-lg-10 strong {
+    font-style: normal;
+    font-size: larger;
+    text-align: center;
+}
